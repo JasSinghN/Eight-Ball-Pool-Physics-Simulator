@@ -7,4 +7,5 @@ The general architecture of the program:
 4)	If collision detected, program updates velocity vectors
 5)	Cycle repeats until all ball speeds are zero
 6)	Animation is generated using positions stored in arrays
+
 To run program, set time increment, coefficients of restitution, coefficients of friction, initial ball positions and initial velocities. 
